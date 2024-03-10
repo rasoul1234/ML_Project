@@ -1,0 +1,12 @@
+tqdm
+numpy
+pandas
+matplotlib
+scikit-learn
+catboost
+xgboost
+watermark
+scipy
+nbdime
+runipy
+-e .
